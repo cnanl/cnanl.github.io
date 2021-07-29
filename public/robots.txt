@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://cnanl.github.io/sitemap.xml

@@ -14,7 +14,7 @@ taxonomies = [
     { name = "tags" },
 ]
 
-title = "My blog"
+title = "cnanl的博客"
 
 [markdown]
 # Whether to do syntax highlighting
